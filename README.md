@@ -12,12 +12,11 @@ Make sure you have npm installed on your machine.
 
 ### Installation
 
-1. Clone the repository
-2. Install Dependencies:
+1. Install Dependencies:
 ```sh
 npm install
 ```
-3. Compile and Hot-Reload for Development
+2. Compile and Hot-Reload for Development
 ```sh
 npm run dev
 ```
